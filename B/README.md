@@ -1,0 +1,6 @@
+-COUNT 기준
+-COUNTIF 조건에 맞는 개수 세는 함수
+- SUMIF 조건 1개
+- SUMIFS 조건 2개 이상
+- AND *
+- OR +
